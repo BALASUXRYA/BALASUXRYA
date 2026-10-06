@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,100:161b22&text=Bala%20Surya&fontColor=ffffff&fontSize=55&fontAlignY=45&desc=Java%20Developer%20%7C%20Full-Stack%20%7C%20AI%20Enthusiast&descAlignY=65&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://raw.githubusercontent.com/BALASUXRYA/BALASUXRYA/main/batman-banner.svg" width="100%"/>
 
 # Hi 👋, I'm Bala Surya
 
