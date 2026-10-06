@@ -130,8 +130,6 @@ An AI-based healthcare assistance project designed to provide intelligent suppor
 
 * 🥇 District 1st — School General Knowledge Competition
 * ⚽ Represented district in school football
-* 🏏 Representing Karur in cricket
-* 🏏 Vice-Captain — College Cricket Team
 
 These experiences have helped me develop **leadership, teamwork, communication, and the ability to perform under pressure**.
 
