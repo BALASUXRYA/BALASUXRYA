@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+<defs>
+  <radialGradient id="bg" cx="50%" cy="45%" r="80%">
+    <stop offset="0%" stop-color="#242424"/>
+    <stop offset="55%" stop-color="#0b0b0d"/>
+    <stop offset="100%" stop-color="#000000"/>
+  </radialGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="stars" width="90" height="70" patternUnits="userSpaceOnUse">
+    <circle cx="12" cy="18" r="1" fill="#777"/><circle cx="53" cy="42" r=".8" fill="#aaa"/><circle cx="79" cy="9" r=".7" fill="#555"/>
+  </pattern>
+</defs>
+<rect width="1200" height="330" fill="url(#bg)"/>
+<rect width="1200" height="330" fill="url(#stars)" opacity=".55"/>
+<ellipse cx="600" cy="150" rx="390" ry="95" fill="#111" opacity=".9" filter="url(#glow)"/>
+<!-- stylized bat silhouettes -->
+<g fill="#f0f0f0" opacity=".95">
+  <path d="M92 122 C125 92 160 78 202 88 L244 58 L236 102 L285 83 L271 125 L311 116 C286 145 254 158 218 158 L196 185 L174 158 C137 158 105 146 78 116 L119 125 L104 83 L153 102 L145 58 Z"/>
+  <path d="M890 116 C924 87 959 76 1002 87 L1045 57 L1037 101 L1086 82 L1072 124 L1112 115 C1087 144 1055 157 1019 157 L997 184 L975 157 C938 157 906 145 879 115 L920 124 L905 82 L954 101 L946 57 Z"/>
+</g>
+<g fill="none" stroke="#777" stroke-width="1" opacity=".35">
+  <rect x="425" y="60" width="350" height="180" rx="4"/>
+  <path d="M425 95H775 M500 60V240 M700 60V240"/>
+</g>
+<text x="600" y="205" text-anchor="middle" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" letter-spacing="5">BALA SURYA</text>
+<text x="600" y="235" text-anchor="middle" fill="#a9a9a9" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="4">JAVA • FULL STACK • AI</text>
+<path d="M470 260 H730" stroke="#555" stroke-width="1"/>
+</svg>
