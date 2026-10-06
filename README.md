@@ -1,192 +1,115 @@
-# Hi, I'm Bala Surya 👋
+<div align="center">
 
-### 💻 Computer Science Engineering Student | Java Developer | Full-Stack & AI Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,100:161b22&text=Bala%20Surya&fontColor=ffffff&fontSize=55&fontAlignY=45&desc=Java%20Developer%20%7C%20Full-Stack%20%7C%20AI%20Enthusiast&descAlignY=65&descSize=18&animation=fadeIn" width="100%"/>
 
-I'm **Bala Surya**, a Computer Science Engineering student at **V.S.B Engineering College, Karur**, passionate about building practical software solutions using **Java, Python, Full-Stack Development, and AI**.
+# Hi 👋, I'm Bala Surya
 
-I enjoy solving programming problems, learning new technologies, and turning ideas into real-world applications.
+### 💻 Java Developer
+
+**Build • Learn • Solve • Improve**
+
+Building practical software solutions with clean code, problem solving and AI.
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🚀 About Me
 
-- 🎓 B.E. Computer Science Engineering — V.S.B Engineering College, Karur
-- 📅 2023 – 2027
-- 💡 Interested in **Java Development, Full-Stack Development & AI**
-- 🧠 Currently improving my **Data Structures & Algorithms and problem-solving skills**
-- 🔭 Working on **AI-powered software solutions**
-- 🏏 Cricket player & college team vice-captain
-- 🎯 Goal: Become a skilled **Software Developer**
-- 📍 Tamil Nadu, India
+</div>
 
----
+> **Bala Surya** — Computer Science Engineering student focused on **Java, Full-Stack Development and AI**.
+>
+> I enjoy building practical applications, developing REST APIs, working with databases and solving programming problems.
+>
+> Currently, I'm improving my skills in **Java, Spring Boot, React, MySQL, REST APIs, AI applications, embeddings and vector databases**, while strengthening my **Data Structures & Algorithms**.
+>
+> My goal is simple: **write clean code, build useful software, and grow into a strong software engineer.**
 
-## 🛠️ Tech Stack
+<div align="center">
 
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js" />
-</p>
+## 🤝 Connect
 
-### Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite" />
-</p>
+<a href="https://github.com/BALASUXRYA">
+  <img src="https://skillicons.dev/icons?i=github" width="48"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/bala-surya-5191a431/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/3Fa0GAjIS8/">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48"/>
+</a>
 
-### Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,mysql" />
-</p>
+## 🧑‍💻 Tech Stack
 
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,vite,spring,fastapi,mysql,git,github,docker,aws" />
 
----
+<br/>
 
-## 🤖 Featured Projects
-
-### 🔎 AI Resume Search — Endee Vector DB
-
-An AI-powered semantic resume search system that helps recruiters find relevant candidates based on **meaning and context rather than exact keyword matching**.
-
-**Tech:** Python • FastAPI • React • Sentence Transformers • Vector Database • REST API
-
-**My contribution:**
-- Generated embeddings for resumes and search queries
-- Integrated vector database functionality
-- Developed backend APIs
-- Worked on connecting frontend, backend and database components
-
-### 🤖 AI Software Development Assistant
-
-An AI-powered development assistant designed to help developers with software development tasks and improve their development workflow.
-
-**Tech:** AI • Python • REST APIs • Full-Stack Development
-
-**Focus:**
-- AI-assisted development
-- Software problem solving
-- API integration
-- Developer productivity
-
-### 🏥 MedPilot AI
-
-An AI-based healthcare assistance project designed to provide intelligent support and simplify healthcare-related interactions.
-
-**Tech:** AI • Python • Web Technologies
-
-**Focus:**
-- AI-powered assistance
-- Healthcare information support
-- User-friendly interaction
-- Intelligent software solutions
-
----
-
-## 💻 Coding Profiles
-
-<p align="left">
-  <a href="https://github.com/BALASUXRYA">
-    <img src="https://img.shields.io/badge/GitHub-BALASUXRYA-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://leetcode.com/u/3Fa0GAjIS8/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</p>
-
----
+<img src="https://skillicons.dev/icons?i=postman,linux,idea,vscode" />
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BALASUXRYA&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BALASUXRYA&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
+<img src="https://github-readme-stats.vercel.app/api?username=BALASUXRYA&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BALASUXRYA&layout=compact&theme=github_dark&hide_border=true" height="180"/>
 
 ## 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BALASUXRYA&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://streak-stats.demolab.com?user=BALASUXRYA&theme=github-dark-blue&hide_border=true" width="70%"/>
+
+## 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BALASUXRYA&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%"/>
+
+</div>
 
 ---
+
+<div align="center">
+
+## 🤖 Featured Projects
+
+</div>
+
+### 🔎 AI Resume Search — Endee Vector DB
+
+Semantic recruiter search using **Sentence Transformers, embeddings and Endee Vector DB** to find relevant resumes based on meaning instead of exact keywords.
+
+**Tech:** Python • FastAPI • React • Sentence Transformers • Vector Database • REST API
+
+### 🤖 AI Software Development Assistant
+
+AI-powered software development assistant focused on developer productivity, problem solving and API integration.
+
+**Tech:** AI • Python • REST APIs • Full-Stack Development
+
+### 🏥 MedPilot AI
+
+AI-based healthcare assistance project designed to provide intelligent support through a user-friendly software interface.
+
+**Tech:** AI • Python • Web Technologies
+
+---
+
+<div align="center">
 
 ## 🏆 Achievements
 
-- 🥇 District 1st — School General Knowledge Competition
-- ⚽ Represented district in school football
-- 🏏 Representing Karur in cricket
-- 🏏 Vice-Captain — College Cricket Team
+🥇 District 1st — School General Knowledge Competition  
+⚽ Represented district in school football  
+🏏 Representing Karur in cricket  
+🏏 Vice-Captain — College Cricket Team
 
-These experiences have helped me develop **leadership, teamwork, communication, and the ability to perform under pressure**.
+## 📚 Currently Learning
 
----
-
-## 📜 Certifications & Learning
-
-- Java — Infosys Springboard
-- Cybersecurity — NASSCOM
-- Vertex AI — Google
-- Frontend Development — Pumo Technovation
-
----
-
-## 📈 Currently Learning
-
-```
-Java
- ├── OOP
- ├── Collections
- ├── Exception Handling
- ├── Java 8
- └── Problem Solving
-
-Full Stack
- ├── React
- ├── REST APIs
- ├── Spring Boot
- └── MySQL
-
-AI
- ├── Generative AI
- ├── Embeddings
- ├── Vector Databases
- └── AI Application Development
-```
-
----
-
-## 🎯 2026 Goals
-
-- 🚀 Build production-ready software projects
-- 🧠 Improve Data Structures & Algorithms
-- ☕ Become stronger in Java & Spring Boot
-- 🤖 Build more practical AI applications
-- 🌐 Improve Full-Stack Development skills
-- 💼 Start my career as a Software Developer
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/bala-surya-5191a431/">
-    <img src="https://img.shields.io/badge/LinkedIn-Bala%20Surya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/BALASUXRYA">
-    <img src="https://img.shields.io/badge/GitHub-BALASUXRYA-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/3Fa0GAjIS8/">
-    <img src="https://img.shields.io/badge/LeetCode-Bala%20Surya-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</p>
-
----
+**Java** • **Spring Boot** • **React** • **REST APIs** • **MySQL** • **DSA** • **Generative AI** • **Embeddings** • **Vector Databases**
 
 ### 💡 "Learn. Build. Solve. Improve. Repeat."
 
-⭐ Feel free to explore my repositories and connect with me!
+⭐ Thanks for visiting my profile!
+
+</div>
