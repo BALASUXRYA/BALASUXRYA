@@ -101,8 +101,6 @@ AI-based healthcare assistance project designed to provide intelligent support t
 
 🥇 District 1st — School General Knowledge Competition  
 ⚽ Represented district in school football  
-🏏 Representing Karur in cricket  
-🏏 Vice-Captain — College Cricket Team
 
 ## 📚 Currently Learning
 
